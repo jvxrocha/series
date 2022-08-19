@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(152, 102, 199);
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
+
+.principal {
+  color: white;
+  text-align: center;
+}
+
+.ddv {
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+
+.spt {
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+
+.bb {
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+
+.twd {
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+
+.pb {
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+
+.rc {
+  color: rgb(67, 0, 122);
+  display: flex;
+  justify-content: center;
+}
+
+.rc a img {
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 50px;
+}
